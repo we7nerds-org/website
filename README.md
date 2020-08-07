@@ -1,7 +1,5 @@
 # My Website
 
-some updates
+This is a really awesome website
 
-Example edit on new branch
-
-
+update made on master on Github before rebase
