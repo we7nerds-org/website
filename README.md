@@ -6,4 +6,5 @@ update made on master on Github before rebase
 
 ## Repository Purpose
 
-This will be a change that conflict with whatever is on the remote side. 
+The purpose of this file is to provide examples on how to use Git and Github together. 
+
